@@ -1,12 +1,12 @@
 {
   "name": "thtu",
   "version": "1.0.0",
-  "main": "06.03.00.mvc01.js",
+  "main": "07.01.00.mvc02.js",
   "scripts": {
     "start": "node 07.01.00.mvc02",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Hao",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
